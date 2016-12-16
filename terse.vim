@@ -1,6 +1,6 @@
 " Terse Verses Of Utter Control
 " A Vim Color Theme
-" Author: Jevgeni Tarasov <1@jst.lu>
+" Author: Jevgeni Tarasov <jev@jst.lu>
 " Version: 1
 "
 " A terse color theme. No candy colors, no wild contrasts, no green on black.
